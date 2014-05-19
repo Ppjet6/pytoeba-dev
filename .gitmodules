@@ -1,0 +1,6 @@
+[submodule "pytoeba-git"]
+	path = pytoeba-git
+	url = https://github.com/loolmeh/pytoeba.git
+[submodule "pytoeba-gerrit"]
+	path = pytoeba-gerrit
+	url = ssh://loolmeh@review.gerrithub.io:29418/loolmeh/pytoeba
