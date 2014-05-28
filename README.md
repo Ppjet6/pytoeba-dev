@@ -1,7 +1,7 @@
 Pytoeba-dev
 ==========
 
-This is a preconfigured template project for (pytoeba)[https://github.com/loolmeh/pytoeba]
+This is a preconfigured template project for https://github.com/loolmeh/pytoeba
 
 Dependenices
 ---------
@@ -22,3 +22,8 @@ Usage
   - ln -s ./pytoeba-git/pytoeba ./pytoeba 
   - python manage.py syncdb --migrate
   - python manage.py runserver
+
+Running Tests
+------
+
+See pytoeba's readme.
